@@ -16,10 +16,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yskfukui" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yskfukui&count_private=true
-)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yskfukui&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yskfukui)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
