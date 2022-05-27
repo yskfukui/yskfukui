@@ -9,7 +9,7 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yskfukui
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yskfukui&count_private=true
 )](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yskfukui&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
