@@ -10,11 +10,15 @@
 </p>
 
 <p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yskfukui&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yskfukui&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=yskfukui&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ### 公開している成果物
 - Minna de Kondate
